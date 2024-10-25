@@ -16,6 +16,8 @@
 ---
 Полная версия - https://www.patreon.com/pythontoday
 ```
+нужен python 3.12 (PyAudio.whl файл скачан для этой версии python)
+$ pip install vosk
 $ pip install -r requirements.txt
 ```
 ---
